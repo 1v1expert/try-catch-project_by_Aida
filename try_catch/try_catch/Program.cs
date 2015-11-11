@@ -92,8 +92,6 @@ namespace try_catch
             Console.Write("  ");
             for (int j = 1; j < amount + 1; ++j)
                 Console.Write(" {0} ", j);
-            //Console.WriteLine();
-
             Gray();
             Console.WriteLine("\n     Студенты\n");
             Green();
