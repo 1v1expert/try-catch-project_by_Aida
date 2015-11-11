@@ -1,0 +1,6 @@
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\try-catch-project_by_Aida\try_catch\try_catch\bin\Debug\try_catch.exe.config
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\try-catch-project_by_Aida\try_catch\try_catch\obj\Debug\try_catch.csprojResolveAssemblyReference.cache
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\try-catch-project_by_Aida\try_catch\try_catch\bin\Debug\try_catch.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\try-catch-project_by_Aida\try_catch\try_catch\bin\Debug\try_catch.pdb
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\try-catch-project_by_Aida\try_catch\try_catch\obj\Debug\try_catch.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\try-catch-project_by_Aida\try_catch\try_catch\obj\Debug\try_catch.pdb
